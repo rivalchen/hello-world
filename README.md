@@ -1,2 +1,5 @@
 # hello-world
-just test test 1
+ i'm  newbie
+ I'm still learning
+
+i want your help, thanks :)
